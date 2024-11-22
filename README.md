@@ -19,12 +19,11 @@ Tenho 19 anos e sou de São Paulo. Sou formado em técnico de Eletroeletrônica 
 
 ## 
 
-<div style="display: flex;">
 <a href="https://github.com/Thi-barros/github-readme-stats">
-  <img height="200" align="left" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Thi-barros&show_icons=true&theme=radical" />
+  <img height="150" align="left" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Thi-barros&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Thi-barros/convoychat">
-  <img height="200" align="left" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thi-barros&layout=compact&theme=radical&langs_count=8&card_width=150" />
+  <img height="150" align="left" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thi-barros&layout=compact&theme=radical&langs_count=8" />
 </a>
-</div>
+
 
