@@ -36,3 +36,14 @@ API de Controle de Estoque	Gestão de produtos, fornecedores e movimentações, 
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/thiago-barros-1071b626a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:thiagoo.barros08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
+
+
+#
+<a href="https://github.com/Thi-barros/github-readme-stats">
+  <img height="150" align="left" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Thi-barros&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Thi-barros/convoychat">
+  <img height="150" align="left" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thi-barros&layout=compact&theme=radical&langs_count=8" />
+</a>
